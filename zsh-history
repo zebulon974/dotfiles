@@ -1,0 +1,666 @@
+: 1540549228:0;cp -r .oh-my-zsh/ ~/ -v
+: 1540549258:0;cd .oh-my-zsh
+: 1540549285:0;/home/jeanlouis.oldcd 
+: 1540549292:0;cd /home/jeanlouis.old
+: 1540549296:0;ls -a
+: 1540549368:0;cp .vimrc .zshrc ~/
+: 1540549394:1;cp -r .vim_runtime/ ~/
+: 1540549420:0;.oh-my-zsh
+: 1540549445:0;custom/themes
+: 1540549451:0;powerlevel9k
+: 1540550911:0;plugins
+: 1540550916:0;zsh-autosuggestions
+: 1540550925:0;zsh-syntax-highlighting
+: 1540550935:0;.vim_runtime
+: 1540554547:0;a
+: 1540554559:0;.config
+: 1540554600:0;mv cairo-dock/ ~/.config/
+: 1540554638:0;mv -r cairo-dock/ ~/.config
+: 1540554651:0;mv -h
+: 1540554657:0;mv --help
+: 1540554696:0;mv -f cairo-dock/ ~/.config -u
+: 1540554731:0;mv -f cairo-dock/ ~/.config
+: 1540554752:0;rmd /home/jeanlouis/.config/cairo-dock
+: 1540554760:0;mv  cairo-dock/ ~/.config
+: 1540555600:0;/home/jeanlouis
+: 1540555608:0;mv  cairo-dock/ ~/.config.
+: 1540555614:0;/home/jeanlouis.old
+: 1540555652:0;mv Documents/* ~/Documents -v
+: 1540555693:0;mv -v Images/* ~/Images
+: 1540555715:0;mv Musique/* ~/Musique
+: 1540555736:0;mv Téléchargements/* ~/Téléchargements
+: 1540555760:0;mv Vidéos/* ~/Vidéos
+: 1540555869:0;snap install spotify
+: 1540555933:0;rmd snap
+: 1540555986:0;cp .ssh/ ~/
+: 1540555992:0;cp .ssh/ ~/ -r
+: 1540556043:0;rmd Bureau/ Documents Images/ Modèles Musique Téléchargements/ Vidéos
+: 1540556052:0;rmd Public
+: 1540556131:0;mv VirtualBox\ VMs/ ~/
+: 1540556141:0;.themes
+: 1540556264:0;mv .icons/ ~/
+: 1540556278:0;adb
+: 1540556299:0;snap/
+: 1540556446:0;rmd Arch Arch\ Deepin\ Desktop Arch\ test Arch_E17 Arch\ Gnome Arch_Cinnamon 
+: 1540556455:0;rmd Voyager\ Linux
+: 1540556493:0;cat .gitconfig
+: 1540556507:0;mv .gitconfig ~/
+: 1540556547:0;mv .scripts ~/
+: 1540556585:0;rmd /home/jeanlouis.old
+: 1540556596:0;_ rmd /home/jeanlouis.old
+: 1540569266:0;srch windscribe
+: 1540569298:0;yain windscribe-cli
+: 1540569344:0;windscribe-cli
+: 1540569445:0;windscribe login
+: 1540569593:0;windscribe disconnect
+: 1540810868:0;srch imagemagick
+: 1540810921:0;pacin imagemagick
+: 1540810965:0;man ImageMagick
+: 1540811003:0;convert
+: 1540811056:0;Images
+: 1540811071:0;convert 1456014.jpg 1456014.png
+: 1540816723:0;convert 19887dbc600c6820ed89a2b2be40bc6a.jpg roches\ Noires.png
+: 1540816792:0;convert 110819194745_93.jpg Roches\ Noires.png
+: 1540817177:0;convert 110819194745_93.jpg --resize=50% Roches\ Noires.png
+: 1540828148:0;hs xscreen
+: 1540829496:0;sc-status lightdm.service
+: 1540829559:0;pacrem lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
+: 1540829618:0;startx
+: 1540829688:0;sc-start gdm.service
+: 1540830034:0;cp -t /usr/share/gdm/autostart/LoginWindow/ /usr/share/applications/gnome-control-center.desktop /usr/share/applications/gnome-tweak-tool.desktop
+: 1540830050:0;_ cp -t /usr/share/gdm/autostart/LoginWindow/ /usr/share/applications/gnome-control-center.desktop /usr/share/applications/gnome-tweak-tool.desktop
+: 1540830103:0;srch dconf
+: 1540830122:0;pacin dconf-editor
+: 1540830765:0;/usr/share/gdm/
+: 1540830775:0;greeter
+: 1540830802:0;_ cp -t /usr/share/gdm/greeter/autostart/LoginWindow/ /usr/share/applications/gnome-control-center.desktop /usr/share/applications/gnome-tweak-tool.desktop
+: 1540830829:0;autostart
+: 1540830842:0;gdm
+: 1540831218:0;/etc/gdm/
+: 1540831227:0;vim custom.conf
+: 1540831374:0;pacrem xfce4
+: 1540831464:0;/etc
+: 1540831504:0;sleep 30 &
+: 1540832157:0;ls -al
+: 1540832175:0;ls -Al
+: 1540832181:0;ls -Alh
+: 1540832192:0;ls -AlhF
+: 1540832381:0;lS
+: 1540832398:0;vim config
+: 1540832414:0;rm config
+: 1540982493:0;snap search molotov
+: 1540982537:0;snap search molo
+: 1540982546:0;snap
+: 1540982563:0;snap find molotov
+: 1540982581:0;snap help find
+: 1540982633:0;snap find nginx
+: 1540982757:0;srch molotov
+: 1540990082:0;systemd-analyze
+: 1540990162:0;pacrem chrome-gnome-shell
+: 1540990167:0;pacrem gnome gnome-extra
+: 1540990248:0;pacrem gnome-extra
+: 1540997160:0;srch pulse
+: 1540997187:0;pacin xfce4-pulseaudio-plugin
+: 1540997268:0;pacrem gnome
+: 1540998271:0;_ pacman -Runs gnome gnome-extra
+: 1540998399:0;pacin gvfs gvfs-mtp
+: 1540998435:0;pacin xfce4
+: 1540998477:0;sc-disable gdm
+: 1540998522:0;pacin lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
+: 1540999190:0;pacin ristretto
+: 1540999198:0;runas
+: 1541000641:0;srch lightdm-webkit
+: 1541000737:0;pacin lightdm-webkit-theme-litarvan
+: 1541000935:0;vim /etc/lightdm/lightdm-webkit2-greeter.conf
+: 1541001113:0;vim vim /etc/lightdm/lightdm-webkit2-greeter.conf
+: 1541001341:0;_ vim /etc/lightdm/lightdm-gtk-greeter.conf
+: 1541004694:0;yain light-dm
+: 1541004747:0;yain lightdm-webkit-theme-sapphire
+: 1541004762:0;yain lightdm-webkit2-theme-sapphire
+: 1541004994:0;pacrem lightdm-gtk-greeter lightdm-gtk-greeter-settings
+: 1541005035:0;srch lightdm-theme
+: 1541005053:0;srch lightdm-webkit2
+: 1541148661:0;srch xfce4-extra
+: 1541148669:0;srch xfce4-goodies
+: 1541149186:0;pacin thunar-archive-plugin xfce4-battery-plugin xfce4-notifyd
+: 1541149204:0;pacin file-roller
+: 1541150562:0;yaupg
+: 1541162839:0;srch ocs-store
+: 1541162857:0;yain ocs-store
+: 1541162872:0;yain ocsstore
+: 1541421435:0;nmcli device wifi | grep yes
+: 1541421452:0;nmcli device wifi awk '{print $8}'
+: 1541421462:0;nmcli device wifi | awk '{print $8}'
+: 1541421501:0;nmcli device wifi | grep RATE
+: 1541421533:0;nmcli device wifi | awk '{print $5}'
+: 1541421559:0;nmcli device wifi | awk '{print $5$6}'
+: 1541421603:0;nmcli device wifi | G * | awk '{print $5$6}'
+: 1541421615:0;nmcli device wifi G * | awk '{print $5$6}'
+: 1541421680:0;nmcli device wifi G*
+: 1541421923:0;nmcli -e
+: 1541421940:0;nmcli -e 
+: 1541421950:0;nmcli --help
+: 1541421970:0;nmcli device wifi
+: 1541421979:0;nmcli device wifi -e
+: 1541421990:0;nmcli device wifi -h
+: 1541432570:0;rm .dmrc
+: 1541436444:0;.local/share/
+: 1541436496:0;.local/share
+: 1541436524:0;wallpapers
+: 1541436540:0;fd fonts
+: 1541436565:0;fd nerds
+: 1541436567:0;/
+: 1541436575:0;ff nerds
+: 1541436587:0;_ ff nerds
+: 1541436868:0;ff nerd
+: 1541436900:0;du
+: 1541436918:0;./install.sh
+: 1541437092:0;.local/share/fonts
+: 1541437099:0;NerdFonts
+: 1541437106:0;du -h
+: 1541499138:0;source .zshrc
+: 1541499338:0;for code ({000..255}) print -P -- "$code: %F{$code}This is how your text would look like%f"
+: 1541499390:0;for code ({000..255}) print -P -- "$code: %F{$code}Mon texte va ressemnler Ã� ça en couleurs%f"
+: 1541502284:0;rm open_gapps-arm-8.1-nano-20181023.*
+: 1541502447:0;rm lineage-15.1-20181022-nightly-cherry-signed.zip
+: 1541502474:0;ls *.iso
+: 1541502494:0;mcd ISO
+: 1541502517:0;mv *.iso ISO/
+: 1541502527:0;rm MindTheGapps-8.1.0-arm-20180808_153837.zip
+: 1541502556:0;rm TWRP_3.2.3-0_O_cherry.img
+: 1541502920:0;rm Dark-Glass-For-Arc-18.04-1/
+: 1541502928:0;rmd Dark-Glass-For-Arc-18.04-1
+: 1541503103:0;rmd Exercice\ a\ corriger
+: 1541503111:0;Pack\ 25
+: 1541503119:0;Png
+: 1541507863:0;nerd-fonts
+: 1541507888:0;vim readme_fr.md
+: 1541508226:0;srch evince
+: 1541508252:0;pacin evince
+: 1541508672:0;pacrem evince
+: 1541508718:0;sa orph
+: 1541680372:0;neon-config 
+: 1541680389:0;srch neofetch
+: 1541680406:0;pacin neofetch
+: 1542025647:0;hostname
+: 1542025651:0;hostname -f
+: 1542025658:0;hostname -h
+: 1542025665:0;hostname --help
+: 1542025687:0;hostname -i
+: 1542025696:0;hostname -s
+: 1542025708:0;hostname -d
+: 1542026030:0;nmcli device wifi | grep yes | awk '{print $8}'
+: 1542026049:0;nmcli device wifi | grep yes | awk '{print $6}'
+: 1542026063:0;nmcli device wifi | awk '{print $6}'
+: 1542026106:0;nmcli device wifi G *
+: 1542026120:0;nmcli device wifi 
+: 1542026150:0;nmcli device wifi | grep Livebox | awk '{print $6}'
+: 1542026167:0;nmcli
+: 1542026281:0;vim /etc/resolv
+: 1542026287:0;vim /etc/resolv.conf
+: 1542026401:0;cat /etc/resolv.conf
+: 1542026462:0;nmcli device show
+: 1542026862:0;/etc/NetworkManager/conf.d
+: 1542026892:0;vim NetworkManager.conf
+: 1542026914:0;dnsmasq.d
+: 1542026945:0;system-connections
+: 1542026949:0;system-connections/
+: 1542026961:0;dispatcher.d
+: 1542027015:0;cat /etc/resolvconf.conf
+: 1542193668:0;srch compiz
+: 1542199156:0;neofetch
+: 1542199184:0;screenfetch
+: 1542199250:0;.scripts
+: 1542385241:0;zshrc
+: 1542884855:0;chmod 644 Deezloader-rmx-4.1.4-x86_64.AppImage
+: 1542884876:0;chmod 744 Deezloader-rmx-4.1.4-x86_64.AppImage
+: 1542884912:0;./Deezloader-rmx-4.1.4-x86_64.AppImage
+: 1542888639:0;srch deez
+: 1542890286:0;hs windscribe
+: 1542890302:0;sc-start windscribe.service
+: 1542890427:0;windscribe account
+: 1542890506:0;windscribe port
+: 1542890531:0;windscribe viewlog
+: 1542890630:0;windscribe
+: 1542890646:0;windscribe speedtest
+: 1542890681:0;windscribe protocol
+: 1542890713:0;windscribe protocol TCP
+: 1542890746:0;windscribe protocol UDP
+: 1542890757:0;windscribe port 80
+: 1542890762:0;windscribe connect
+: 1542890808:0;windscribe port 443
+: 1542890846:0;windscribe 
+: 1542890855:0;windscribe examples
+: 1542890874:0;windscribe connect best
+: 1542890887:0;windscribe connect US
+: 1542890923:0;windscribe connect 
+: 1542990197:0;windscribe status
+: 1542990248:0;upgrade
+: 1543229393:0;nmap
+: 1543229399:0;pacin nmap
+: 1543229422:0;nmap -S
+: 1543229426:0;nmap -h
+: 1543229541:0;nmap -V -sn 192.168.1.0/24
+: 1543229569:0;nmap -P 
+: 1543229574:0;nmap -p
+: 1543229587:0;nmap -p 192.168.1.0/24
+: 1543229739:0;nmap -sS 192.168.1.0/24
+: 1543229748:0;_ nmap -sS 192.168.1.0/24
+: 1543230202:0;namp -sP
+: 1543230212:0;nmap -sP
+: 1543230228:0;nmap -sP 192.168.1.0-255
+: 1543230399:0;nmap -O 192.168.1.18
+: 1543230408:0;_ nmap -O 192.168.1.18
+: 1543230451:0;_ nmap -O 127.0.0.1
+: 1543230470:0;_ nmap -sP 192.168.1.0-255
+: 1543230523:0;_ nmap -O 192.168.1.13
+: 1543230643:0;_ nmap -O 192.168.1.11
+: 1543231072:0;host 192.168.1.18
+: 1543231097:0;xhost
+: 1543231109:0;xhost -h
+: 1543231116:0;xhost --help
+: 1543231129:0;xhost 192.168.1.18
+: 1543231137:0;man xhost
+: 1543231254:0;_ nmap -sV -A 192.168.1.11
+: 1543231460:0;q
+: 1543246490:0;Téléchargements/ISO
+: 1543247290:0;md5sum -c md5sums.txt
+: 1543502535:0;ISO
+: 1543502553:0;gcl https://github.com/deadhead420/anarchy-linux.git
+: 1543502715:0;cp archlinux-2018.11.01-x86_64.iso anarchy-linux/ -v
+: 1543502723:0;anarchy-linux
+: 1543502743:0;./anarchy-creator.sh
+: 1543502754:0;./anarchy-creator.sh -c
+: 1543850009:0;ping 10.0.2.15
+: 1543850102:0;ping 192.168.1.23
+: 1543850131:0;vim .ssh/known_hosts
+: 1543850251:0;scp .zshrc jeanlouis@192.168.1.23:/home/jeanlouis/
+: 1543850329:0;.oh-my-zsh/custom
+: 1543850377:0;scp historyjl.zsh jlh.* jeanlouis@192.168.1.23:/home/jeanlouis/.oh-my-zsh/custom/
+: 1543851105:0;Nath@lie
+: 1543851175:0;ssh 192.168.1.23
+: 1543913881:0;pacin openbox
+: 1543913926:0;pacrem openbox
+: 1543914327:0;srch r-studio
+: 1543914358:0;yain r-studio-for-linux
+: 1544182433:0;reboot
+: 1544182647:0;rmd Test\ de\ recup
+: 1544182653:0;_ rmd Test\ de\ recup
+: 1544182672:0;_ rm -rf Test\ de\ recup
+: 1544182701:0;pacrem r-studio-for-linux
+: 1544186480:0;VirtualBox\ VMs
+: 1544186486:0;rmd android
+: 1544187297:0;fc-cache -f -v
+: 1544446061:0;x newwave_archlinux_gdm_by_g3nel21c.gz
+: 1544524566:0;cat /etc/pacman.d/mirrorlist
+: 1544524577:0;vim /etc/pacman.d/mirrorlist
+: 1544524664:0;ls /etc/pacman.d
+: 1544524692:0;diff /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.pacnew
+: 1544524743:0;pacin meld
+: 1544525068:0;cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+: 1544525075:0;_ cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+: 1544525084:0;/etc/pacman.d
+: 1544525148:0;list=$(mktemp)
+: 1544525319:0;rankmirrors -n 5 $list > /etc/pacman.d/mirrorlist.new
+: 1544525327:0;_ rankmirrors -n 5 $list > /etc/pacman.d/mirrorlist.new
+: 1544525363:0;_ rankmirrors -n 5 $list > ~/Documents/mirrorlist.new
+: 1544525442:0;Documents
+: 1544525449:0;cat mirrorlist.new
+: 1544525667:0;wget 'https://www.archlinux.org/mirrorlist/\?country\=all\&protocol\=http\&protocol\=https\&ip_version\=4\&use_mirror_status\=on' -O $list
+: 1544525751:0;wget 'https://www.archlinux.org/mirrorlist/\?country\=all\&protocol\=http\&protocol\=https\&ip_version\=4\&use_mirror_status\=on' -O > mirrorlist.new
+: 1544525956:0;wget 'https://www.archlinux.org/mirrorlist/\?country\=all\&protocol\=http\&protocol\=https\&ip_version\=4\&use_mirror_status\=on' > mirrorlist.new
+: 1544525992:0;wget 'https://www.archlinux.org/mirrorlist/?country=FR&protocol=http&ip_version=4&use_mirror_status=on' -O $list
+: 1544526041:0;sed -i 's/^#S/S/p' $list
+: 1544526071:0;_ rankmirrors -n 0 $list > ~/Documents/mirrorlist.new
+: 1544526429:0;wget 'https://www.archlinux.org/mirrorlist/?country=all&protocol=http&ip_version=4&use_mirror_status=on' -O $list
+: 1544526458:0;cp $lisT > mirrorlist.base
+: 1544526473:0;cp -r $lisT > mirrorlist.base
+: 1544526494:0;touch /tmp/tmp.fD6KrByLVI >mirrorlist.base
+: 1544526522:0;touch /tmp/tmp.fD6KrByLVI > mirrorlist.base
+: 1544526563:0;wget 'https://www.archlinux.org/mirrorlist/?country=all&protocol=http&ip_version=4&use_mirror_status=on' -O mirrorlist.base
+: 1544526597:0;sed -i 's/^#S/S/p' mirrorlist.base
+: 1544526784:0;_ rankmirrors -n 0 $list > ~/Documents/mirrorlist.new &
+: 1544526904:0;jobs %sudo
+: 1544527004:0;rm webfonts_Abuse.zip
+: 1544527027:0;rm homejlh.tar.bz2 
+: 1544527041:0;rm Toys\'r\'us.pdf
+: 1544527076:0;rmd guide-v56b/
+: 1544527214:0;kali-linux-xfce-2018.2-amd64
+: 1544527249:0;md5sum -c kali-linux-xfce-2018.2-amd64.iso
+: 1544527271:0;sha256sum kali-linux-xfce-2018.2-amd64.
+: 1544527275:0;sha256sum kali-linux-xfce-2018.2-amd64.iso
+: 1544527290:0;sha256sum 
+: 1544527298:0;sha256sum -h
+: 1544527335:0;sha256sum -c kali-linux-xfce-2018.2-amd64.txt.sha256sum
+: 1544527588:0;sha256 -c kali-linux-xfce-2018.2-amd64.iso
+: 1544527596:0;sha256sum -c kali-linux-xfce-2018.2-amd64.iso
+: 1544527629:0;cat kali-linux-xfce-2018.2-amd64.txt.sha256sum
+: 1544527646:0;sha256sum --help
+: 1544527896:0;job
+: 1544527902:0;jobs -h
+: 1544527907:0;jobs --help
+: 1544527939:0;jobs start
+: 1544530515:0;jobs 1
+: 1544530528:0;jobs list
+: 1544530545:0;sleep 10 &
+: 1544530650:0;jobs -l
+: 1544530734:0;fg 7693
+: 1544530747:0;fg 1
+: 1544530753:0;fg %sudo 
+: 1544530777:0;jobs
+: 1544530857:0;sed -i 's/^#S/S/p' mirrorlist.new
+: 1544530904:0;pacin mousepad
+: 1544530958:0;cp mirrorlist.new /etc/pacman.d/mirrorlist
+: 1544530968:0;_ cp mirrorlist.new /etc/pacman.d/mirrorlist
+: 1544531091:0;pacin openssh
+: 1544531110:0;ip addr
+: 1544531216:0;scp mirrorlist.new jeanlouis@192.168.1.18:/home/jeanlouis/Documents
+: 1544612780:0;pacin gnome
+: 1544612958:0;sc-disable lightdm.service
+: 1544612970:0;sc-enable gdm.service
+: 1544613218:0;srch tweaks
+: 1544613237:0;pacin gnome-tweaks
+: 1544613668:0;srch ocs
+: 1544613686:0;srch ocsstore
+: 1544613704:0;ocsstore
+: 1544613739:0;yarem ocsstore
+: 1544614004:0;pacrem htop
+: 1544614028:0;yain gotop
+: 1544616363:0;hdd
+: 1544618614:0;srch gdm
+: 1544618753:0;gdm -version
+: 1544618757:0;gdm -v
+: 1544618762:0;gdm -h
+: 1544618773:0;gdm --version
+: 1544618801:0;yain gdm3setup-utils
+: 1544618920:0;gdm3setup-utils
+: 1544619266:0;gdm3setup-daemon
+: 1544619319:0;gdm-screenshot
+: 1544619336:0;gdmshelltheme
+: 1544619348:0;gdmshelltheme -l
+: 1544619372:0;gdmshelltheme -n Arc
+: 1544619378:0;_ gdmshelltheme -n Arc
+: 1544619404:0;yarem gdm3setup-utils
+: 1544619410:0;yalst
+: 1544619429:0;sa yay
+: 1544619443:0;yaorph
+: 1544624301:0;x Transparent\ shell\ theme3.0.tar.gz
+: 1544624336:0;Transparent\ shell\ theme3.0
+: 1544624345:0;gnome-
+: 1544624357:0;gnome-shell
+: 1544624360:0;gnome-shell/
+: 1544625347:0;x Extra-2.4.tar.xz
+: 1544625373:0;Extra-2.4
+: 1544625475:0;rm Extra\ 1.5
+: 1544625481:0;rmd Extra\ 1.5
+: 1544625484:0;rm Extra\ 1.5.tar.xz
+: 1544625498:0;x theme1540810375.zip
+: 1544625513:0;theme1540810375
+: 1544625527:0;images
+: 1544625602:0;rmd theme1540810303.crx theme1540810375.zip
+: 1544625611:0;rmd theme1540810375/
+: 1544633824:0;./lanceur
+: 1544633837:0;./conky
+: 1544696737:0;pacin flatpak
+: 1544696810:0;sc-start flatpak-system-helper.service
+: 1544697833:0;snap spotify
+: 1544697844:0;snap searchspotify
+: 1544697849:0;snap search spotify
+: 1544697887:0;snap install musixmatch
+: 1544698107:0;flatpak install flathub com.github.themix_project.Oomox
+: 1544698196:0;top
+: 1544698485:0;snap search blender
+: 1544698517:0;snap darktable
+: 1544698525:0;snap search darktable
+: 1544698666:0;sudo snap install darktable
+: 1544699116:0;snap run darktable
+: 1544699233:0;srch gdb
+: 1544699262:0;pacin gdb
+: 1544699304:0;gdb
+: 1544699365:0;gdb status
+: 1544699388:0;gdb aliases
+: 1544699447:0;darktable
+: 1544699578:0;_ darktable
+: 1544710344:0;pacin conky conky-manager
+: 1544710651:0;conky
+: 1544710663:0;srch conly
+: 1544710675:0;srch conky
+: 1544712706:0;x Conky_Arc_Light.tar.gz
+: 1544712952:0;Conky_Arc_Light
+: 1544712997:0;cat Play\ OFL\ SIL\ Font\ License\ 1.1.txt
+: 1544713031:0;.conky
+: 1544713061:0;mv .conkyrc conkyrc
+: 1544713094:0;conky -c
+: 1544713181:0;.conky/Conky_Arc_Light
+: 1544713191:0;mv conkyrc .conkyrc
+: 1544713204:0;conky -c conkyrc
+: 1544713211:0;conky -c .conkyrc
+: 1544713314:0;srch lua
+: 1544713417:0;yain conky-lua-archers
+: 1544714136:0;pacin gedit
+: 1544714569:0;Conky -h
+: 1544714577:0;Conky --help
+: 1544714587:0;conky --help
+: 1544714621:0;Conky -d Arc-Light
+: 1544714633:0;conky -d Arc-Light
+: 1544714644:0;kill 2549
+: 1544714708:0;conky -d .conkyrc
+: 1544714738:0;killall conky
+: 1544714756:0;vim Arc-Light
+: 1544715416:0;rm GNOME-3.6.0.iso\~
+: 1544715430:0;rmd Conky_Arc_Light
+: 1544715462:0;x monconky-20181213T152805Z-001.zip
+: 1544786518:0;pacrem gdm
+: 1544786541:0;pacin gdm
+: 1544786552:0;sc-status gdm.service
+: 1544786602:0;sc-disable gdm.service
+: 1544786615:0;sc-enable lightdm.service
+: 1544786762:0;pacin lightdm-webkit-theme-archlinux
+: 1544786825:0;pacrem xfce4-terminal
+: 1544786992:0;srch webkit2
+: 1544787034:0;hs light
+: 1544789719:0;root
+: 1544790213:0;_ vim /etc/lightdm/lightdm.conf
+: 1544790537:0;pacrem lightdm-webkit-theme-archlinux
+: 1544795125:0;/usr/share/lightdm-webkit/themes
+: 1544795142:0;antergos
+: 1544795159:0;thunar
+: 1544795468:0;srch lightdm
+: 1544795591:0;yain lightdm-webkit2-theme-arch
+: 1544795839:0;yain lightdm-webkit2-theme-luminos-git
+: 1544795851:0;srch luminos
+: 1544795877:0;yain lightdm-webkit-theme-luminos-git
+: 1544796136:0;_ vim /etc/lightdm/lightdm-webkit2-greeter.conf
+: 1544796152:0;lightdm-webkit2-greeter
+: 1545045692:0;srch conky lua
+: 1545045757:0;yarem conky-lua-archers
+: 1545045788:0;pacrem conky-manager conky-lua-archers 
+: 1545045863:0;flatpak list
+: 1545045901:0;snap remove musixmatch
+: 1545045921:0;snap remove darktable
+: 1545045940:0;snap list
+: 1545045982:0;flatpak search darktable
+: 1545046249:0;flatpak install org.darktable.Darktable
+: 1545048734:0;.icons
+: 1545048741:0;rmd oomox-Christmas
+: 1545048750:0;token_by_brsev
+: 1545049883:0;flatpak search asleriot
+: 1545049901:0;flatpak search aisleriot
+: 1545049937:0;flatpak install org.gnome-aisleriot
+: 1545151226:0;defragfs
+: 1545151235:0;./defragfs
+: 1545151242:0;./defragfs -h
+: 1545151332:0;./defragfs /run/media/jeanlouis/E2B/_ISO/ -a
+: 1545151348:0;_ ./defragfs /run/media/jeanlouis/E2B/_ISO/ -a
+: 1545151408:0;pacin gotop
+: 1545151417:0;srch gotop
+: 1545151432:0;yain gotop-git
+: 1545151469:0;gotop
+: 1545151591:0;/run/media/jeanlouis/E2B/_ISO/docs/
+: 1545151624:0;E2B\ Utilities 
+: 1545151640:0;UtilMan
+: 1545151649:0;...
+: 1545151669:0;docs
+: 1545151697:0;linux_utils
+: 1545151739:0;./defragfs /run/media/jeanlouis/E2B/_ISO/LINUX/Voyager-GE-18.10-amd64.iso
+: 1545151745:0;_ ./defragfs /run/media/jeanlouis/E2B/_ISO/LINUX/Voyager-GE-18.10-amd64.iso
+: 1545151767:0;./defragfs / -h
+: 1545151814:0;_ ./defragfs /run/media/jeanlouis/E2B/_ISO/LINUX/ -af
+: 1545209876:0;groups
+: 1545210941:0;sc-status vboxweb.service
+: 1545222522:0;snap refresh
+: 1545222677:0;.oh-my-zsh/custom/plugins
+: 1545222723:0;Téléchargements
+: 1545222732:0;mon_github
+: 1545222763:0;hs git
+: 1545222774:0;hs zebulon
+: 1545222777:0;hs zebulonfr
+: 1545222789:0;hs github
+: 1545222811:0;hs mon
+: 1545222824:0;hs ma
+: 1545222855:0;gcl https://github.com/zebulon974/ma_config.git
+: 1545223003:0;touch test.txt
+: 1545223024:0;gcm
+: 1545223172:0;rmd test.txt
+: 1545224113:0;cls
+: 1545224118:0;pwd
+: 1545224612:0;paclist
+: 1545224630:0;pacls
+: 1545224640:0;pacloc
+: 1545224666:0;paclocs > list_application.txt
+: 1545224674:0;vim list_application.txt
+: 1545224721:0;paclocs
+: 1545224730:0;paclog-pkglist
+: 1545224741:0;paclsorphans
+: 1545228841:0;${HOME}
+: 1545229414:0;sa status
+: 1545229441:0;ga test.txt
+: 1545229453:0;ga .*
+: 1545229463:0;ga *.
+: 1545229466:0;ga *.*
+: 1545229587:0;git reset HEAD
+: 1545229628:0;ga list_application.txt
+: 1545229668:0;gcam
+: 1545229693:0;gcam 'test du 19/12/2018'
+: 1545230140:0;rm *.xmp
+: 1545230161:0;rm -r *.xmp
+: 1545230170:0;rm -rf *.xmp
+: 1545230695:0;gcam 'Modification du chemin home'
+: 1545230943:0;edal
+: 1545231739:0;custom
+: 1545231755:0;vim jlh.plugin.zsh
+: 1545232012:0;2
+: 1545232023:0;git init
+: 1545232067:0;cp .gitignore ~/Documents/dotfiles
+: 1545232081:0;vim .gitignore
+: 1545232248:0;.ssh
+: 1545232264:0;vim known_hosts
+: 1545232392:0;eval "$(ssh-agent -s)"
+: 1545232903:0;grup
+: 1545232916:0;gr
+: 1545233196:0;grset
+: 1545233849:0;ssh -T git@github.com
+: 1545235857:0;grset origin git@github.com:zebulon974/ma_config.git
+: 1545235912:0;3
+: 1545235945:0;sa remote
+: 1545236006:0;gra dotfiles git@github.com:zebulon974/dotfiles.git
+: 1545236087:0;ga *
+: 1545236136:0;ga .gitignore
+: 1545236193:0;gcam "Premier commit dossier Dotfiles du bureau"
+: 1545236309:0;vim ~/.gitconfig
+: 1545238700:0;gp --set-upstream dotfiles master
+: 1545238765:0;git branch --set-upstream-to=dotfiles/<branche> master
+: 1545238777:0;git branch --set-upstream-to=dotfiles/ master
+: 1545238787:0;git branch --set-upstream-to=dotfiles/master master
+: 1545238902:0;grv
+: 1545238914:0;gp dotfiles
+: 1545238931:0;git push --set-upstream dotfiles master
+: 1545238959:0;exit
+: 1545302657:0;yasu
+: 1545304419:0;ss
+: 1545304713:0;Téléchargements/mon_github
+: 1545304761:0;~/Documents/dotfiles
+: 1545304768:0;gl
+: 1545304803:0;gl git@github.com/zebulon974/dotfiles master
+: 1545304826:0;gl https://github.com/zebulon974/dotfiles master
+: 1545304951:0;git merge 
+: 1545304955:0;git merge master
+: 1545305082:0;gcl https://github.com/zebulon974/dotfiles.git -f
+: 1545307692:0;grhh
+: 1545307709:0;sa git
+: 1545307749:0;sgrep
+: 1545307778:0;dotfiles
+: 1545307785:0;gwip
+: 1545307790:0;gsh
+: 1545307828:0;gmom
+: 1545307852:0;glum
+: 1545307895:0;rmd dotfiles
+: 1545307902:0;gcl https://github.com/zebulon974/dotfiles.git
+: 1545307966:0;rmd ma_config
+: 1545308025:0;1
+: 1545308032:0;..
+: 1545308050:0;mv mon_github/ github/
+: 1545308060:0;github
+: 1545308075:0;github/
+: 1545308094:0;d
+: 1545308105:0;4
+: 1545308120:0;rm mirrorlist*
+: 1545308148:0;mcd mes_projets
+: 1545308172:0;mv ~/Téléchargements/github/ma_config/ .
+: 1545308196:0;mv ~/Documents/dotfiles/ .
+: 1545308207:0;ma ma_config
+: 1545308210:0;ma_config
+: 1545308446:0;gcam "Modification de l'emplacements de mes dossiers de sauvegardes"
+: 1545308500:0;mv list_application.txt ~/Documents/mes_projets/dotfiles
+: 1545308541:0;sa remove
+: 1545308549:0;sa rm
+: 1545308562:0;grm
+: 1545308590:0;grm list_application.txt
+: 1545308629:0;grh list_application.txt
+: 1545308661:0;git reset HEAD list_application.txt
+: 1545309039:0;cp ~/Documents/mes_projets/dotfiles/list_application.txt .
+: 1545309303:0;man cp --bakup
+: 1545309546:0;mcd test
+: 1545309601:0;cp ~/.zshrc .
+: 1545309621:0;cp --backup ~/.zshrc .
+: 1545309650:0;cp -b ~/.zshrc .
+: 1545309783:0;cp -a ~/.zshrc .
+: 1545309793:0;man cp
+: 1545309984:0;cp --backup[=all] ~/.zshrc .
+: 1545309994:0;cp --backup=all ~/.zshrc .
+: 1545310016:0;cp --backup=t ~/.zshrc .
+: 1545310038:0;cp --backup=numbered ~/.zshrc .
+: 1545310053:0;cp --backup=simple ~/.zshrc .
+: 1545315858:0;./ma_config.sh
+: 1545315877:0;vim ma_config.sh
+: 1545317753:0;sa commit
+: 1545317790:0;gcm 
+: 1545317798:0;gst
+: 1545317827:0;gcm 'Ajout des options de copie'
+: 1545317834:0;gc 'Ajout des options de copie'
+: 1545317843:0;gcam 'Ajout des options de copie'
+: 1545317851:0;gp
+: 1545318911:0;cd
+: 1545318914:0;la
+: 1545318920:0;rmd test
+: 1545318930:0;ll
+: 1545318936:0;ls
+: 1545318953:0;lr
+: 1545319010:0;lart
+: 1545319019:0;sa ls
+: 1545319027:0;lsd
+: 1545319037:0;lt
+: 1545319042:0;sa la
+: 1545319074:0;lsa
+: 1545319079:0;l
+: 1545319092:0;la
+: 1545319096:0;cd
+: 1545319098:0;la
+: 1545319119:0;.config
+: 1545319120:0;l
+: 1545319142:0;rmd htop
+: 1545319145:0;la
+: 1545319147:0;l
+: 1545319430:0;./ma_config.sh
+: 1545319540:0;mkdir -p ~/Documents/mes_projets/dotfiles/config/terminator
+: 1545319544:0;./ma_config.sh
