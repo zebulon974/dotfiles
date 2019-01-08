@@ -1,4 +1,4 @@
-ma_config/custom/plugins/zsh-autosugestions/*
-ma_config/custom/plugins/zsh-syntax-highlighting/*
-ma_config/custom/themes/powerlevel9k/*
+/custom/plugins/zsh-autosugestions/*
+/custom/plugins/zsh-syntax-highlighting/*
+/custom/themes/powerlevel9k/*
 
