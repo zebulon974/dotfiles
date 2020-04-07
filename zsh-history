@@ -471,17 +471,13 @@
 : 1545232067:0;cp .gitignore ~/Documents/dotfiles
 : 1545232392:0;eval "$(ssh-agent -s)"
 : 1545232903:0;grup
-: 1545232916:0;gr
 : 1545233196:0;grset
-: 1545235945:0;sa remote
-: 1545236006:0;gra dotfiles git@github.com:zebulon974/dotfiles.git
 : 1545236136:0;ga .gitignore
 : 1545236193:0;gcam "Premier commit dossier Dotfiles du bureau"
 : 1545238700:0;gp --set-upstream dotfiles master
 : 1545238765:0;git branch --set-upstream-to=dotfiles/<branche> master
 : 1545238777:0;git branch --set-upstream-to=dotfiles/ master
 : 1545238787:0;git branch --set-upstream-to=dotfiles/master master
-: 1545238914:0;gp dotfiles
 : 1545238931:0;git push --set-upstream dotfiles master
 : 1545304419:0;ss
 : 1545304713:0;Téléchargements/mon_github
@@ -492,14 +488,11 @@
 : 1545304955:0;git merge master
 : 1545305082:0;gcl https://github.com/zebulon974/dotfiles.git -f
 : 1545307692:0;grhh
-: 1545307709:0;sa git
 : 1545307749:0;sgrep
 : 1545307785:0;gwip
 : 1545307790:0;gsh
 : 1545307828:0;gmom
 : 1545307852:0;glum
-: 1545307895:0;rmd dotfiles
-: 1545307902:0;gcl https://github.com/zebulon974/dotfiles.git
 : 1545307966:0;rmd ma_config
 : 1545308050:0;mv mon_github/ github/
 : 1545308060:0;github
@@ -510,7 +503,6 @@
 : 1545308172:0;mv ~/Téléchargements/github/ma_config/ .
 : 1545308196:0;mv ~/Documents/dotfiles/ .
 : 1545308207:0;ma ma_config
-: 1545308210:0;ma_config
 : 1545308446:0;gcam "Modification de l'emplacements de mes dossiers de sauvegardes"
 : 1545308500:0;mv list_application.txt ~/Documents/mes_projets/dotfiles
 : 1545308541:0;sa remove
@@ -545,7 +537,6 @@
 : 1545319074:0;lsa
 : 1545319142:0;rmd htop
 : 1545319540:0;mkdir -p ~/Documents/mes_projets/dotfiles/config/terminator
-: 1545319544:0;./ma_config.sh
 : 1545319599:0;vim ma_config.sh
 : 1545319666:0;sa extr
 : 1545319674:0;man extract_
@@ -578,7 +569,6 @@
 : 1545321728:0;sa gr
 : 1545321737:0;hs gr
 : 1545321781:0;grset origin git@github.com:zebulon974/dotfiles.git
-: 1545321789:0;grv
 : 1545325084:0;8
 : 1545406891:0;ssh -v
 : 1545406899:0;ssh --version
@@ -992,7 +982,6 @@ FIN
 : 1552999781:0;mv .themes/ themes
 : 1552999791:0;ga *
 : 1552999828:0;gcam "Ajout de mon theme shell"
-: 1552999833:0;gp
 : 1553099133:0;ff deezer
 : 1553099142:0;ff deezer*
 : 1553099152:0;ff *deezer
@@ -1088,7 +1077,6 @@ FIN
 : 1564146599:0;fdisk -l
 : 1564146604:0;_ fdisk -l
 : 1564146625:0;_ fdisk /dev/sdb
-: 1564146629:0;cls
 : 1564646759:0;hs deez
 : 1564646784:0;./Deezloader\ Remix\ 4.2.0.AppImage
 : 1564649008:0;té
@@ -1199,7 +1187,6 @@ FIN
 : 1581944354:0;lla
 : 1581944390:0;./update_system.sh
 : 1581944396:0;_ ./update_system.sh
-: 1582131258:0;m
 : 1582284776:0;/
 : 1582284810:0;fd update
 : 1582284823:0;_ fd update
@@ -1237,10 +1224,7 @@ FIN
 : 1583929652:0;vim .vimrc
 : 1583930143:0;la
 : 1583930171:0;vim .viminfo
-: 1583930235:0;.ssh
-: 1583930254:0;vim known_hosts
 : 1583930346:0;hs github
-: 1583930372:0;ssh -T git@github.com
 : 1583930392:0;fd mon
 : 1584017198:0;telegram-desktop
 : 1584017229:0;Téléchargements/
@@ -1262,7 +1246,6 @@ FIN
 : 1586169158:0;historyjl
 : 1586169645:0;sc-status update_system.timer
 : 1586169670:0;/etc/systemd/system
-: 1586169725:0;hs git
 : 1586169799:0;grset origin git@github.com:zebulon974/ma_config.git
 : 1586169818:0;Projets
 : 1586169824:0;ls
@@ -1271,36 +1254,101 @@ FIN
 : 1586169856:0;dotfiles
 : 1586169889:0;git init
 : 1586169898:0;gl
-: 1586169915:0;gst
-: 1586169934:0;cd
 : 1586169943:0;.oh-my-zsh/themes
-: 1586169949:0;..
 : 1586169953:0;custom
 : 1586169985:0;themes
-: 1586169986:0;l
 : 1586169994:0;vim jlh.zsh-theme
 : 1586170006:0;c
 : 1586170014:0;zshrc
 : 1586170522:0;exit
-: 1586246719:0;hs git
-: 1586246761:0;gcl https://github.com/zebulon974/dotfiles.git
-: 1586246767:0;l
 : 1586246775:0;rmd dotfiles
-: 1586246777:0;l
 : 1586246802:0;hs git
-: 1586246838:0;gra dotfiles git@github.com:zebulon974/dotfiles.git
-: 1586246867:0;Documents/mes_projets/dotfiles
-: 1586246869:0;l
-: 1586246876:0;gra dotfiles git@github.com:zebulon974/dotfiles.git
 : 1586246889:0;touch test
-: 1586246890:0;l
 : 1586246896:0;gra dotfiles git@github.com:zebulon974/dotfiles.git
 : 1586246912:0;hs gcma
 : 1586246918:0;hs gm
-: 1586246923:0;hs gc
-: 1586246962:0;..
 : 1586246963:0;m
-: 1586246965:0;l
 : 1586246972:0;ma_config
-: 1586246974:0;l
 : 1586246980:0;./ma_config.sh
+: 1586247037:0;Documents/mes_projets/dotfiles
+: 1586247045:0;rm test
+: 1586247051:0;cls
+: 1586247092:0;hs gc
+: 1586247165:0;gcl https://github.com/zebulon974/dotfiles.git
+: 1586247232:0;sa push
+: 1586247243:0;hs gp
+: 1586247265:0;gp dotfiles
+: 1586247287:0;..
+: 1586247288:0;cd
+: 1586247291:0;.ssh
+: 1586247292:0;l
+: 1586247301:0;vim known_hosts
+: 1586247487:0;sa git
+: 1586247661:0;gst
+: 1586247699:0;gcam '1 Commit avec les fichiers du pc du bureau le 07 04 2020'
+: 1586247710:0;gp
+: 1586247912:0;gr
+: 1586247920:0;sa remote
+: 1586247930:0;grv
+: 1586248028:0;ssh -T git@github.com
+: 1586248056:0;ssh -T git@github.com:zebulon974
+: 1586248071:0;ssh -T git@github.com:zebulon974/dotfiles.git
+: 1586248156:0;ssh -vT git@github.com
+: 1586248225:0;ssh -T zebulon074@github.com
+: 1586248604:0;grv
+: 1586248732:0;~/.ssh
+: 1586248733:0;l
+: 1586248745:0;vim id_ed25519
+: 1586248764:0;vim known_hosts
+: 1586248854:0;eval "$(ssh-agent -s)"
+: 1586248870:0;ssh-add ~/.ssh/id_rsa
+: 1586248933:0;srch xclip
+: 1586248960:0;yain xclip
+: 1586249168:0;xclip -sel clip < ~/.ssh/id_rsa.pub
+: 1586249172:0;l
+: 1586249190:0;xclip -sel clip < ~/.ssh/id_ed25519.pub
+: 1586249275:0;ssh -T zebulon074@github.com
+: 1586249506:0;hs keygen
+: 1586249509:0;hs key
+: 1586249517:0;hs ssh
+: 1586249641:0;ls
+: 1586249645:0;rm *
+: 1586249830:0;l
+: 1586249946:0;ssh-keygen -t rsa -b 4096 -C "zebulon974@hotmail.com"
+: 1586249957:0;l
+: 1586249983:0;ssh-keygen -t ed25519 -b 4096 -C "zebulon974@hotmail.com"
+: 1586249989:0;l
+: 1586250012:0;rm id_rsa id_rsa.pub
+: 1586250015:0;l
+: 1586250049:0;eval "$(ssh-agent -s)"
+: 1586250065:0;ssh-add ~/.ssh/id_ed25519
+: 1586250080:0;xclip -sel clip < ~/.ssh/id_ed25519.pub
+: 1586250172:0;ssh -T git@github.com
+: 1586250207:0;l
+: 1586250265:0;~/Documents/mes_projets/dotfiles
+: 1586250270:0;gp
+: 1586250283:0;gst
+: 1586250292:0;gcam '1 Commit avec les fichiers du pc du bureau le 07 04 2020'
+: 1586250305:0;l
+: 1586250377:0;dotfiles
+: 1586250379:0;l
+: 1586250407:0;..
+: 1586250417:0;ga dotfiles/
+: 1586250428:0;gp
+: 1586250452:0;rmd dotfiles
+: 1586250456:0;gp
+: 1586250515:0;gcam '1 Commit avec les fichiers du pc du bureau le 07 04 2020'
+: 1586250519:0;gp
+: 1586250524:0;l
+: 1586250530:0;..
+: 1586250537:0;dotfiles
+: 1586250540:0;l
+: 1586250542:0;gst
+: 1586250569:0;git rm dotfiles/
+: 1586250574:0;gp
+: 1586250601:0;..
+: 1586250606:0;ma_config
+: 1586250607:0;l
+: 1586250959:0;vim list_application.txt
+: 1586250971:0;vim ma_config.sh
+: 1586251068:0;./ma_config.sh
