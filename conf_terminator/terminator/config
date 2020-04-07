@@ -1,0 +1,57 @@
+[global_config]
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 27cd7e00-0940-45ca-adc0-26061d038440
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 26:23
+      size = 1324, 617
+      title = /usr/bin/zsh
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = 27cd7e00-0940-45ca-adc0-26061d038440
+  [[jlh]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 27cd7e00-0940-45ca-adc0-26061d038440
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 26:23
+      size = 1324, 617
+      title = /usr/bin/zsh
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = Nouveau profil
+      type = Terminal
+      uuid = 27cd7e00-0940-45ca-adc0-26061d038440
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.8
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = ProFontWindows Nerd Font Mono 14
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    use_system_font = False
+  [[jlh]]
+    background_darkness = 0.8
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = RobotoMono Nerd Font 12
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    use_system_font = False
