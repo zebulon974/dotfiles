@@ -1,0 +1,10 @@
+[Unit]
+Description=Vérifie et télécharge les mises a jour Pacman
+
+[Timer]
+OnCalendar=weekly
+OnBootSec=15min
+Persistent=true
+
+[Install]
+WantedBy=timers.target

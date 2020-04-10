@@ -1,0 +1,8 @@
+ [Unit]
+ Description=Vérifie et télécharge les mises à jour Pacman
+ 
+ [Service]
+ Nice=19
+ IOSchedulingClass=2
+ IOSchedulingPriority=7 
+ ExecStart=/home/jeanlouis/.scripts/update_system.sh
